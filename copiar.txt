@@ -1,0 +1,39 @@
+Paste this code to your page between the tags <head></head>
+
+<!-- Start WOWSlider.com HEAD section -->
+<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+<script type="text/javascript" src="engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+
+
+Paste this code to your page between the tags <body></body> in the place that you want the slider to appear
+
+
+<!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container1">
+<div class="ws_images"><ul>
+		<li><img src="data1/images/batalla1.jpg" alt="batalla1" title="batalla1" id="wows1_0"/></li>
+		<li><img src="data1/images/batalla2.jpg" alt="batalla2" title="batalla2" id="wows1_1"/></li>
+		<li><img src="data1/images/batalla3.jpg" alt="batalla3" title="batalla3" id="wows1_2"/></li>
+		<li><img src="data1/images/batalla4.jpg" alt="batalla4" title="batalla4" id="wows1_3"/></li>
+		<li><img src="data1/images/batalla5.jpg" alt="batalla5" title="batalla5" id="wows1_4"/></li>
+		<li><img src="data1/images/batalla6.jpg" alt="batalla6" title="batalla6" id="wows1_5"/></li>
+		<li><a href="http://wowslider.com"><img src="data1/images/batalla7.jpg" alt="http://wowslider.com/" title="batalla7" id="wows1_6"/></a></li>
+		<li><img src="data1/images/mayo.jpg" alt="mayo" title="mayo" id="wows1_7"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="batalla1"><span><img src="data1/tooltips/batalla1.jpg" alt="batalla1"/>1</span></a>
+		<a href="#" title="batalla2"><span><img src="data1/tooltips/batalla2.jpg" alt="batalla2"/>2</span></a>
+		<a href="#" title="batalla3"><span><img src="data1/tooltips/batalla3.jpg" alt="batalla3"/>3</span></a>
+		<a href="#" title="batalla4"><span><img src="data1/tooltips/batalla4.jpg" alt="batalla4"/>4</span></a>
+		<a href="#" title="batalla5"><span><img src="data1/tooltips/batalla5.jpg" alt="batalla5"/>5</span></a>
+		<a href="#" title="batalla6"><span><img src="data1/tooltips/batalla6.jpg" alt="batalla6"/>6</span></a>
+		<a href="#" title="batalla7"><span><img src="data1/tooltips/batalla7.jpg" alt="batalla7"/>7</span></a>
+		<a href="#" title="mayo"><span><img src="data1/tooltips/mayo.jpg" alt="mayo"/>8</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com/vi">image slider</a> by WOWSlider.com v8.7</div>
+<div class="ws_shadow"></div>
+</div>	
+<script type="text/javascript" src="engine1/wowslider.js"></script>
+<script type="text/javascript" src="engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
